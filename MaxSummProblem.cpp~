@@ -1,6 +1,6 @@
 #include<iostream>
 
-#define DIVISOR 		0x02U
+
 int maxSum( int n){
 	int summ;
 	if(n == 0)
