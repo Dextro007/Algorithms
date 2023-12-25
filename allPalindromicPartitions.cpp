@@ -20,9 +20,3 @@ bool checkPalindrome(string s){
 	}
 	return flag;
 }
-
-vector<vector<string>> allPalindromicPerms(string s){
-	vector<vector<string s>> result;
-	vector<string> s;
-	
-
